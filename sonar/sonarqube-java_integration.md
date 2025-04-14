@@ -83,3 +83,4 @@ mvn sonar:sonar \
   ~/sonarqube-25.4.0.105899/logs/sonar.log
   ```
 - You can configure a **systemd service** to keep SonarQube running on reboot if needed
+![](./image/sonarjava1.png)

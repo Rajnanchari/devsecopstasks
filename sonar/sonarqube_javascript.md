@@ -100,3 +100,17 @@ sonar scan
 - Ensure SonarQube is up and running at the host URL.
 - Open port `9000` on **Instance One**'s firewall for external access.
 - You can monitor analysis results from the web interface: `http://34.228.143.21:9000`
+
+![](./image/sonarjs1.png)
+![](./image/sonarjs2.png)
+![](./image/sonarjs3.png)
+![](./image/sonarjs4.png)
+![](./image/sonarjs5.png)
+![](./image/sonarjs6.png)
+![](./image/sonarjs7.png)
+![](./image/sonarjs8.png)
+![](./image/sonarjs9.png)
+![](./image/sonarjs10.png)
+![](./image/sonarjs11.png)
+![](./image/sonarjs12.png)
+

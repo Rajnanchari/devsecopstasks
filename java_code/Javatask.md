@@ -55,7 +55,9 @@
 
             http://<your-server-ip>:8080/<project-name>    
 
-![](./images/TrainTicket%20booking.png)
+
+
+![](./Image/TrainTicket%20booking.png)
 
 
 

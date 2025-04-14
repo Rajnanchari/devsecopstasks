@@ -113,4 +113,5 @@ sonar-scanner -Dsonar.projectKey=python -Dsonar.sources=. -Dsonar.host.url=http:
 - Ensure the SonarQube server is accessible from Instance Two.
 - Replace `sonar.token` with your own secure token from the SonarQube dashboard.
 - Port `9000` should be open in the firewall for access to the SonarQube dashboard.
+![](./image/pysonarcode.png)
 

@@ -31,7 +31,6 @@ python amisha_flask_assignment.py
 
 
 
-
 Number-Guessing-Game/
 ├── amisha_flask_assignment.py
 ├── venv/ (optional)
@@ -68,3 +67,16 @@ Use python3 instead of python if you're working on Unix-based systems.
    22  python amisha_flask_assignmgient.py
    23  vi amisha_flask_assignment.py
    24  python amisha_flask_ass  
+```
+![](./Image/python2.png)
+![](./Image/python3.png)
+![](./Image/python4.png)
+![](./Image/python5.png)
+![](./Image/python6.png)
+![](./Image/python7.png)
+![](./Image/python8.png)
+![](./Image/python9.png)
+![](./Image/pythontask.png)
+
+
+
